@@ -27,8 +27,8 @@ Let’s start with something fun: a typeface-pairing game.
      - Name: Domine
      - URL: https://fonts.google.com/specimen/Domine#about
    Typeface Two:
-     - Name:
-     - URL:
+     - Name: Nunito Sans
+     - URL: https://fonts.google.com/specimen/Nunito+Sans#about
 
 4. Next, here in the `pp-01` directory, work with the starter HTML file to set up some content to
    show off your pairing and explain briefly why you chose the typefaces you did. The most basic
