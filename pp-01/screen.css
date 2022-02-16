@@ -7,3 +7,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+/* Modular Scale, Base: 16, Ratio: 1.2 */
+html {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 1.728em; /* = 27.648px / 16px */
+  line-height: 2.074em; /* = 33.178px / 16px */
+  padding: 0.833em; /* = 13.333 / 16px */
+}
