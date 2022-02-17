@@ -23,8 +23,11 @@ does this perfectly.
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=52h0u0kpgpgf3xck9rPrPk9xcf3
+Your Rationale: I decided to use the spread of yellow, lime, and green colors at Hue: 145 degrees.
+This is because green is synonymous with growth and plants, and the light and airy yellow provides a
+feeling of happiness. These colors work well together to remind the user of spring time and
+happiness.
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
