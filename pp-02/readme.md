@@ -36,5 +36,5 @@ Your Rationale: For the triadic color palette I decided to go with red, blue, an
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=71U1K0kuGrPjYzbpfuUwPmrElhl
+Your Rationale: For the custom color palette I used a combination of purple, blue, orange, and yellow at Hue: 121. This combination works well in my opinion because the dark blue shows strength and is usually seen with cybersecurity webpages and products. The yellow and the orange work together to peek the user's interest and make them feel safe and at ease, since learning is sometimes daunting. Lastly the purple provides a good counter to the yellow and provides a more commanding tone.
