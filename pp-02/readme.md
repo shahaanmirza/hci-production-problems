@@ -15,8 +15,11 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 
 1. A **monochromatic color palette** for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=10v0u0kpgpgf3xck9rPrPk9xcf3
+Your Rationale: I decided to use the Orange at Hue: 31 degrees. This is because orange evokes
+interest, without overpowering the end user. Orange is an interesting color in that it is a playful
+color. The website for the console is meant to engage the user and retain their attention. Orange
+does this perfectly.
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
