@@ -31,10 +31,17 @@ happiness.
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL: http://paletton.com/#uid=31T0Z0kpBqafyywkysys7k+x5g2
-Your Rationale: For the triadic color palette I decided to go with red, blue, and yellow at Hue: 120 degrees. I did some research into children's learning websites, such as ABC mouse, and saw a common theme of blue and yellow. Additionally, these colors are bright enough to catch the attention of children, and then to keep their attention.
+Your Palette URL: http://paletton.com/#uid=31T0Z0kpBqafyywkysys7k+x5g2 Your Rationale: For the
+triadic color palette I decided to go with red, blue, and yellow at Hue: 120 degrees. I did some
+research into children's learning websites, such as ABC mouse, and saw a common theme of blue and
+yellow. Additionally, these colors are bright enough to catch the attention of children, and then to
+keep their attention.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
-Your Palette URL: http://paletton.com/#uid=71U1K0kuGrPjYzbpfuUwPmrElhl
-Your Rationale: For the custom color palette I used a combination of purple, blue, orange, and yellow at Hue: 121. This combination works well in my opinion because the dark blue shows strength and is usually seen with cybersecurity webpages and products. The yellow and the orange work together to peek the user's interest and make them feel safe and at ease, since learning is sometimes daunting. Lastly the purple provides a good counter to the yellow and provides a more commanding tone.
+Your Palette URL: http://paletton.com/#uid=71U1K0kuGrPjYzbpfuUwPmrElhl Your Rationale: For the
+custom color palette I used a combination of purple, blue, orange, and yellow at Hue: 121. This
+combination works well in my opinion because the dark blue shows strength and is usually seen with
+cybersecurity webpages and products. The yellow and the orange work together to peek the user's
+interest and make them feel safe and at ease, since learning is sometimes daunting. Lastly the
+purple provides a good counter to the yellow and provides a more commanding tone.
