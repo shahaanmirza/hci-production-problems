@@ -31,8 +31,8 @@ happiness.
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=31T0Z0kpBqafyywkysys7k+x5g2
+Your Rationale: For the triadic color palette I decided to go with red, blue, and yellow at Hue: 120 degrees. I did some research into children's learning websites, such as ABC mouse, and saw a common theme of blue and yellow. Additionally, these colors are bright enough to catch the attention of children, and then to keep their attention.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
