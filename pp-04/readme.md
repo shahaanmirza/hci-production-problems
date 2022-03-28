@@ -10,7 +10,7 @@ students, including yourself. Organize into teams however you’d like, includin
 Basecamp thread, and then choose as a team what coordination software you will use to communicate
 (e.g., your own Basecamp project [NOT the class-wide one], Slack, Discord, or something else).
 
-Write the name of the communication service your team has decided to use:
+Write the name of the communication service your team has decided to use: Discord
 
 2. **Only one member of your team should complete this step.** In your project coordination software
 of choice, discuss and choose one member who will create the free GitHub Organization account for
