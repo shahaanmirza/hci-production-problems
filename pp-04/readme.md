@@ -30,7 +30,7 @@ https://github.com/hci-Magnezing
 4. Copy and paste the URL showing your team’s GitHub organization members here:
 https://github.com/orgs/hci-Magnezing/people
 5. Copy and paste the URL for your team’s shared repository for Project Two here:
-
+https://github.com/hci-Magnezing/Project2
 6. Each member of the team should then fork the team repository from within the team organization
 on GitHub (so, too, should the team member who created the GitHub organization for your project).
 
